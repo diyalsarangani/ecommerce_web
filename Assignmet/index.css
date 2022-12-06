@@ -22,3 +22,10 @@
     border-radius: 5px;
     background: linear-gradient(to  right,yellow, gray, orange);
 }
+#heading{
+    background:linear-gradient(to right bottom,gray,black);
+    margin-top: 10px;
+    color: white;
+    text-align: center;
+    font-size: 3.5em;
+  }
